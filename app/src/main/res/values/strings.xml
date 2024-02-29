@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HiLowGameCompositionViewModelDemo</string>
+    <string name="error_empty">This field can be number only</string>
+    <string name="text_enter_guess">Enter your guess here</string>
+    <string name="restart">Restart</string>
+    <string name="congratulatinos">Congratulatinos!</string>
+    <string name="you_have_fun">You have fun!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
